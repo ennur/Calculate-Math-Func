@@ -1,7 +1,11 @@
-## [GİRİŞ](#Giriş)
-### [ALGORİTMALAR](#Algoritmalar)
-### [AŞAMALAR](#Aşamalar)
+## [GİRİŞ](#GİRİŞ)
+
+### [ALGORİTMALAR](#ALGORİTMALAR)
+
+### [AŞAMALAR](#AŞAMALAR)
+
 ### [PERFORMANS](#PERFORMANS)
+
 ### [KULLANIM](#KULLANIM)
 
 ***
