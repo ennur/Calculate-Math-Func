@@ -12,7 +12,7 @@
 ***
 
 
-# GİRİŞ
+## GİRİŞ
 
 Fibonacci,ackermann ve factorial algoritmalarının, Flask kullanarak REST API mimarisiyle web servis oluşturulmuştur.
 
@@ -88,7 +88,7 @@ fibonacci(10) için oluşan profile çıktısı.
 |1  |  0.000 |   0.000 |   0.000  |  0.000 |{method 'disable' of '_lsprof.Profiler' objects}  
 
 
-# KULLANIM
+### KULLANIM
 
 * Git clone.
 
