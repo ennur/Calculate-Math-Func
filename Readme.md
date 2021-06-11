@@ -1,4 +1,4 @@
-## <a id="#giriş">GİRİŞ</a>
+## <a href="#giriş">GİRİŞ</a>
 
 
 ### [ALGORİTMALAR](#ALGORİTMALAR)
@@ -7,12 +7,11 @@
 
 ### [PERFORMANS](#PERFORMANS)
 
-### <a id="#kullanım">KULLANIM</a>
+### <a href="#KULLANIM">KULLANIM</a>
 
 ***
 
-
-## GİRİŞ
+<h3><a name="giriş">GİRİŞ</a></h3>
 
 Fibonacci,ackermann ve factorial algoritmalarının, Flask kullanarak REST API mimarisiyle web servis oluşturulmuştur.
 
