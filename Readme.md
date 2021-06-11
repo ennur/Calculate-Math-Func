@@ -1,4 +1,4 @@
-## [GİRİŞ](#GİRİŞ)
+## [GİRİŞ]<a>#GİRİŞ</a>
 
 ### [ALGORİTMALAR](#ALGORİTMALAR)
 
