@@ -7,7 +7,7 @@
 
 ### [PERFORMANS](#PERFORMANS)
 
-### [KULLANIM](#KULLANIM)
+### <a href="#kullanım">KULLANIM</a>
 
 ***
 
