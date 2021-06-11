@@ -1,4 +1,4 @@
-## <a href="#giriş">GİRİŞ</a>
+## <a href="#GİRİŞ">GİRİŞ</a>
 
 
 ### [ALGORİTMALAR](#ALGORİTMALAR)
@@ -7,7 +7,7 @@
 
 ### [PERFORMANS](#PERFORMANS)
 
-### <a href="#kullanım">GO KULLANIM</a>
+### <a href="#KULLANIM">KULLANIM</a>
 
 ***
 
