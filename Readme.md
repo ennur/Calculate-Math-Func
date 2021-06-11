@@ -1,13 +1,8 @@
-## <a href="#giriş">GİRİŞ</a>
-
-
-### [ALGORİTMALAR](#ALGORİTMALAR)
-
-### [AŞAMALAR](#AŞAMALAR)
-
-### [PERFORMANS](#PERFORMANS)
-
-### <a href="#KULLANIM">KULLANIM</a>
+### <a href="#giriş">GİRİŞ</a>
+### <a href="#algoritmalar">ALGORİTMALAR</a>
+### <a href="#aşamalar">AŞAMALAR</a>
+### <a href="#performans">PERFORMANS</a>
+### <a href="#kullanım">KULLANIM</a>
 
 ***
 
@@ -18,8 +13,7 @@ Fibonacci,ackermann ve factorial algoritmalarının, Flask kullanarak REST API m
 CProfile paketi kullanılarak programın çeşitli bölümlerinin ne sıklıkta ve ne kadar süreyle yürütüldüğü izlenmiştir.
 
 
-
-# ALGORİTMALAR
+<h3><a name="algoritmalar">ALGORİTMALAR</a></h3>
 
 #### **1-Fibonacci**
 
@@ -49,8 +43,8 @@ Ackermann işlevi, ismini Wilhelm Ackermann'dan alan oldukça hızlı büyüyen 
 
 Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının faktöriyeli denir.
 
+<h3><a name="aşamalar">AŞAMALAR</a></h3>
 
-# AŞAMALAR
 
 ### 1.Kısım 
 
@@ -71,8 +65,8 @@ CProfile paketi import edilerek, oluşturulan her uç nokta için performanslar 
 Oluşturulan Flask uygulaması Docker kullanılarak kontainer haline getirilmiştir.
 
 
- # PERFORMANS
 
+<h3><a name="performans">PERFORMANS</a></h3>
 
 fibonacci(10) için oluşan profile çıktısı.
 
@@ -87,7 +81,7 @@ fibonacci(10) için oluşan profile çıktısı.
 |1  |  0.000 |   0.000 |   0.000  |  0.000 |{method 'disable' of '_lsprof.Profiler' objects}  
 
 
-### KULLANIM
+<h3><a name="kullanım">KULLANIM</a></h3>
 
 * Git clone.
 
