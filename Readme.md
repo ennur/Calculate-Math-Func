@@ -15,7 +15,6 @@ CProfile paketi kullanılarak programın çeşitli bölümlerinin ne sıklıkta 
 
 <h3><a name="algoritmalar">ALGORİTMALAR</a></h3>
 
-
 #### **1-Fibonacci**
 
 Fibonacci dizisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir. 
@@ -46,7 +45,6 @@ Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isi
 
 
 <h3><a name="aşamalar">AŞAMALAR</a></h3>
-
 
 ### 1.Kısım 
 
