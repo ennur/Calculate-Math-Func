@@ -1,7 +1,7 @@
 ### <a href="#giriş">GİRİŞ</a>
 ### <a href="#algoritmalar">ALGORİTMALAR</a>
 ### <a href="#aşamalar">AŞAMALAR</a>
-### <a href="#performans">PERFORMANS</a>
+### <a href="#performanslar">PERFORMANS</a>
 ### <a href="#kullanım">KULLANIM</a>
 
 ***
@@ -65,7 +65,7 @@ CProfile paketi import edilerek, oluşturulan her uç nokta için performanslar 
 Oluşturulan Flask uygulaması Docker kullanılarak kontainer haline getirilmiştir.
 
 
-<h3><a name="performans">PERFORMANS</a></h3>
+<h3><a name="performanslar">PERFORMANS</a></h3>
 
 
 fibonacci(10) için oluşan profile çıktısı.
