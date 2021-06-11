@@ -1,4 +1,5 @@
-## [GİRİŞ]<a>GİRİŞ</a>
+## <a href="#giriş">GİRİŞ</a>
+
 
 ### [ALGORİTMALAR](#ALGORİTMALAR)
 
