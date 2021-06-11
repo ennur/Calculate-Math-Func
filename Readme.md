@@ -1,6 +1,6 @@
 ### <a href="#giriş">GİRİŞ</a>
 ### <a href="#algoritmalar">ALGORİTMALAR</a>
-### <a href="#aşamalar">AŞAMALAR</a>
+### <a href="#aşama">AŞAMALAR</a>
 ### <a href="#performanslar">PERFORMANS</a>
 ### <a href="#kullanım">KULLANIM</a>
 
@@ -44,7 +44,7 @@ Ackermann işlevi, ismini Wilhelm Ackermann'dan alan oldukça hızlı büyüyen 
 Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının faktöriyeli denir.
 
 
-<h3><a name="aşamalar">AŞAMALAR</a></h3>
+<h3><a name="aşama">AŞAMALAR</a></h3>
 
 ### 1.Kısım 
 
