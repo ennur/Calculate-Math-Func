@@ -15,6 +15,7 @@ CProfile paketi kullanılarak programın çeşitli bölümlerinin ne sıklıkta 
 
 <h3><a name="algoritmalar">ALGORİTMALAR</a></h3>
 
+
 #### **1-Fibonacci**
 
 Fibonacci dizisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir. 
@@ -43,6 +44,7 @@ Ackermann işlevi, ismini Wilhelm Ackermann'dan alan oldukça hızlı büyüyen 
 
 Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının faktöriyeli denir.
 
+
 <h3><a name="aşamalar">AŞAMALAR</a></h3>
 
 
@@ -65,8 +67,8 @@ CProfile paketi import edilerek, oluşturulan her uç nokta için performanslar 
 Oluşturulan Flask uygulaması Docker kullanılarak kontainer haline getirilmiştir.
 
 
-
 <h3><a name="performans">PERFORMANS</a></h3>
+
 
 fibonacci(10) için oluşan profile çıktısı.
 
