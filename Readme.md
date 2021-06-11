@@ -19,7 +19,7 @@ CProfile paketi kullanılarak programın çeşitli bölümlerinin ne sıklıkta 
 
 Fibonacci dizisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir. 
 
-$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...$
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...
 
 - 2, önündeki iki sayıyı (1+1) toplanarak bulunur.
 - 3, önündeki iki sayıyı (1+2) toplayarak bulunur.
