@@ -85,7 +85,7 @@ fibonacci(10) için oluşan profile çıktısı.
 
 * Git clone.
 
-* Dockerfile kullanılarak 
+* Dockerfile kullanılarak.
   
   1. docker build -t <image_name> .
   2. docker run --name <container_name> -p 5000:5000 <image_name> 
