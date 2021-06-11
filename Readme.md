@@ -85,7 +85,7 @@ fibonacci(10) için oluşan profile çıktısı.
 
 # KULLANIM
 
-* Tüm proje dosyaları indirilerek main.py çalıştırılır.
+* Git clone.
 
 * Dockerfile kullanılarak 
   
