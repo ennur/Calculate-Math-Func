@@ -39,9 +39,9 @@ Ackermann işlevi, ismini Wilhelm Ackermann'dan alan oldukça hızlı büyüyen 
 
               A(m-1,A(m,n-1)), diğer 
 
-#### **3-Factorial**
+#### **3-Faktöriyel**
 
-Factorial, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının Factorial denir.
+Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının faktöriyeli denir.
 
 
 <h3><a name="aşama">AŞAMALAR</a></h3>
