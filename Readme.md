@@ -10,7 +10,13 @@
 
 Fibonacci,ackermann ve factorial algoritmalarının, Flask kullanarak REST API mimarisiyle web servis oluşturulmuştur.
 
+Flask küçük projeler için daha hızlı olduğundan ve kullanılacak bir veri tabanı olmadığından tercih edilmiştir.
+
+JSON ile çalışmasından dolayı ise REST kullanılmıştır.
+
 CProfile paketi kullanılarak programın çeşitli bölümlerinin ne sıklıkta ve ne kadar süreyle yürütüldüğü izlenmiştir.
+
+Docker kullanılarak proje, işletim sistemi seviyesinde sanallaştırılmıştır.
 
 
 <h3><a name="algoritmalar">ALGORİTMALAR</a></h3>
@@ -62,7 +68,7 @@ CProfile paketi import edilerek, oluşturulan her uç nokta için performanslar 
 
 ### 4.Kısım
 
-Oluşturulan Flask uygulaması Docker kullanılarak kontainer haline getirilmiştir.
+Oluşturulan Flask uygulaması Docker kullanılarak konteyner haline getirilmiştir.
 
 
 <h3><a name="performanslar">PERFORMANS</a></h3>
@@ -83,12 +89,7 @@ fibonacci(10) için oluşan profile çıktısı.
 
 <h3><a name="kullanım">KULLANIM</a></h3>
 
-* Git clone.
-
-* Dockerfile kullanılarak.
-  
-  1. docker build -t <image_name> .
-  2. docker run --name <container_name> -p 5000:5000 <image_name> 
+Proje dosyası indirilerek main.py ya da Dockerfile ile konteyner oluşturularak çalıştırılır. 
 
 
   
