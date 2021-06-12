@@ -18,6 +18,7 @@ CProfile paketi kullanılarak programın çeşitli bölümlerinin ne sıklıkta 
 
 Docker kullanılarak proje, işletim sistemi seviyesinde sanallaştırılmıştır.
 
+***
 
 <h3><a name="algoritmalar">ALGORİTMALAR</a></h3>
 
@@ -50,6 +51,9 @@ Ackermann işlevi, ismini Wilhelm Ackermann'dan alan oldukça hızlı büyüyen 
 Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının faktöriyeli denir.
 
 
+***
+
+
 <h3><a name="aşama">AŞAMALAR</a></h3>
 
 ### 1.Kısım 
@@ -70,6 +74,8 @@ CProfile paketi import edilerek, oluşturulan her uç nokta için performanslar 
 
 Oluşturulan Flask uygulaması Docker kullanılarak konteyner haline getirilmiştir.
 
+***
+
 
 <h3><a name="performanslar">PERFORMANS</a></h3>
 
@@ -86,6 +92,7 @@ fibonacci(10) için oluşan profile çıktısı.
 | 9   | 0.000   | 0.000 |   0.000  |  0.000| {method 'append' of 'list' objects}|
 |1  |  0.000 |   0.000 |   0.000  |  0.000 |{method 'disable' of '_lsprof.Profiler' objects}  
 
+***
 
 <h3><a name="kullanım">KULLANIM</a></h3>
 
